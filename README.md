@@ -42,11 +42,3 @@ See **[DEPARTMENT-MAP.md](DEPARTMENT-MAP.md)** for the full skill index and the 
 2. For anything open-ended, start at `hr-command-center.md`.
 3. For a specific task, go straight to the skill.
 4. Respect the sequencing rules (size a role before you price it; establish facts before you act).
-
-## What changed from a typical starter HR pack
-
-This library was built to close the gaps most HR skill packs miss: **onboarding, the full performance cycle, DEI and pay equity, offboarding and restructuring, benefits and incentives, strategic workforce planning, wellbeing, and change management** — plus a proper analytics-and-reporting function based on the AIHR HR-dashboard model.
-
-## Credits
-
-Dashboard and reporting design informed by AIHR, *"HR Dashboard: 5 Examples, Metrics and a How-To"* (aihr.com). Built by Satya AI.
