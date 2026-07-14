@@ -42,3 +42,10 @@ See **[DEPARTMENT-MAP.md](DEPARTMENT-MAP.md)** for the full skill index and the 
 2. For anything open-ended, start at `hr-command-center.md`.
 3. For a specific task, go straight to the skill.
 4. Respect the sequencing rules (size a role before you price it; establish facts before you act).
+
+## About the author
+
+Built by **Satya AI**, drawing on:
+
+- **21 years in HR**, leading and building HR departments across a range of sectors.
+- A strong interest in **AI** and how it can make HR work sharper, faster, and more human.
