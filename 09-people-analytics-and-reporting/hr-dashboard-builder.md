@@ -4,7 +4,7 @@ department: People Analytics & Reporting
 author: Satya AI
 library: Satya-AI-HR Agents
 version: 1.0
-description: Design an HR dashboard that shows the state of the workforce at a glance. Use when someone wants a dashboard, a live view of people metrics, a headcount/turnover/absence/recruitment view, or asks "can we see this in one place". Based on the AIHR HR-dashboard model. For one-off written reports, use hr-report-builder; for the board, use board-dashboard.
+description: Design an HR dashboard that shows the state of the workforce at a glance. Use when someone wants a dashboard, a live view of people metrics, a headcount/turnover/absence/recruitment view, or asks "can we see this in one place". For one-off written reports, use hr-report-builder; for the board, use board-dashboard.
 ---
 
 # HR Dashboard Builder
