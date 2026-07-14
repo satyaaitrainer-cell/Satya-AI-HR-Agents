@@ -22,6 +22,7 @@ This is where the whole reward system meets one real person. I help you model a 
 - Candidate expectations and any competing offer.
 - Internal peers' pay, to test equity.
 - Bonus, equity, and benefit components, plus pay definitions from `company-context.md`.
+- No benchmark ready? I can auto-collect the current market rate for the role online (by location and sector) via `market-benchmark` before we model.
 I model from your real range, structure, and peer data. Where a figure is a placeholder — an expected bonus, a share value — I'll label it as an assumption, not a fact.
 
 ## How I'll work through it

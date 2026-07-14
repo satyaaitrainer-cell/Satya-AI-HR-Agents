@@ -22,6 +22,7 @@ Incentives are the sharpest behaviour tool you have — and the easiest to get w
 - Current plan mechanics and where they fall short.
 - Performance measures and how reliably you can track them.
 - Reward philosophy and any plan rules from `company-context.md`.
+- I can pull current market practice for incentive levels and plan design in your sector and geography online to sanity-check targets and payout curves.
 If we model payouts or costs, I work from your real targets and performance data and label every assumption — I won't invent achievement rates.
 
 ## How I'll work through it

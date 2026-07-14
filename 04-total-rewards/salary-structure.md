@@ -22,6 +22,7 @@ A good pay structure turns scattered individual salaries into a system you can e
 - Target market position and pay philosophy.
 - Current salaries, to test fit and spot compression.
 - Structure conventions and pay definitions from `company-context.md`.
+- No benchmarks to hand? I can gather current market rates for each grade automatically online, using your locations and sector, via `market-benchmark` - every figure sourced and dated.
 Ranges are built from your real benchmarks, not generic multipliers. Where benchmark data is missing for a grade, I'll flag it rather than fill the gap with a guess.
 
 ## How I'll work through it

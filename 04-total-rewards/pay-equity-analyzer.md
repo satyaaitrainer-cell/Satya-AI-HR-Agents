@@ -23,6 +23,7 @@ This is a sensitive analysis, so I ask for the data first and never invent figur
 - Protected-characteristic data, at a grain that respects anonymity thresholds.
 - Your pay definitions and the reporting standard you're held to.
 - Reward philosophy and jurisdiction rules from `company-context.md`.
+- Any market rates used as a fairness reference are gathered automatically online by role, location, and sector via `market-benchmark`, with sources cited.
 Where group sizes fall below the anonymity threshold, I'll suppress or aggregate rather than expose individuals. Missing explanatory factors get flagged, because they change what "unexplained" means.
 
 ## How I'll work through it

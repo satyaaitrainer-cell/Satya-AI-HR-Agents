@@ -22,6 +22,7 @@ The best benefits package isn't the most expensive one — it's the one people a
 - What your people value, from surveys or feedback if you have them.
 - Market comparators and budget envelope.
 - Jurisdiction rules, tax treatment, and reward philosophy from `company-context.md`.
+- No market comparators handy? I can gather current benefits practice for your sector and locations online, so the benchmark isn't guesswork.
 Cost-versus-value analysis runs on your real take-up and spend data. Where usage data is missing, I'll flag it as the first thing to gather rather than assume engagement.
 
 ## How I'll work through it
