@@ -23,6 +23,7 @@ I help you turn a hiring decision into an offer the candidate understands and ac
 - Your offer-letter format and approval/sign-off rules (I read these from `company-context.md`).
 - The candidate's motivations and any competing offers.
 - Negotiation room - what's flexible and what isn't.
+- Want a market check on the package before it goes out? I can gather the current market rate for the role online by location and sector via total-rewards `market-benchmark`, so you can see how the offer sits.
 I won't invent numbers or terms; approved figures and your template drive the letter.
 
 ## How I'll work through it
